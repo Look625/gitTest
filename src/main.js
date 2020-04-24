@@ -7,7 +7,8 @@ import store from './store/index'
 
 Vue.config.productionTip = false
 
-console.log('edit from test ')
+console.log('edit from add new branch test')
+console.log('show in master branch')
 
 /* eslint-disable no-new */
 new Vue({
