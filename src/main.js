@@ -7,7 +7,7 @@ import store from './store/index'
 
 Vue.config.productionTip = false
 
-console.log('edit from dev')
+console.log('edit from test ')
 
 /* eslint-disable no-new */
 new Vue({
